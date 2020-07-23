@@ -97,7 +97,7 @@ If you'd like to help support the development of the project, please consider ba
 ## License
 MIT License
 
-Copyright (c) 2017 Arun Michael Dsouza
+Copyright (c) 2020 Divyesh S.Bhatt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
